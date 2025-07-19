@@ -1,0 +1,10 @@
+# SSH to Bastion
+ssh -i ec2-key.pem ec2-user@<PublicIP>
+
+# Connect to Private EC2 via Bastion
+ssh -i ec2-key.pem ec2-user@<PrivateIP>
+
+# Ping and Curl test
+ping google.com
+curl https://google.com
+
