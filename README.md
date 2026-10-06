@@ -24,4 +24,5 @@ This project contains my hands-on practice of AWS VPC networking components usin
 - Bastion Host Setup
 - Security Group Rules
 - Route Table Configuration
+Learning AWS VPC with hands-on practice.
 
